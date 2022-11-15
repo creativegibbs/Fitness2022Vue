@@ -1,0 +1,166 @@
+{
+	"workouts":[
+		{
+			"title": "Chest  Workout",
+			"id": "1",
+			"mainimg": "https://athleanx.com/wp-content/uploads/2021/09/chest-workouts-1024x576.png",
+			"exercise": [
+				{
+					"name": "Dumbbell Bench Press",
+					"image": "http://athletes-hero.com/wp-content/uploads/2018/08/dumbbell-incline-press.jpg",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "chest",
+					"secondarymuscles": ["Shoulders", "Triceps"]
+				},
+				{
+					"name": "Incline Bench Press",
+					"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fprod.skimble%2Fassets%2F799332%2Fimage_iphone.jpg&f=1&nofb=1",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "chest",
+					"secondarymuscles": ["Shoulders", "Triceps"]
+				},
+				{
+					"name": "Standing Cable Fly",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.bodybuildingestore.com%2Fwp-content%2Fuploads%2F2015%2F08%2FStand-Flyes-With-Cables-2.jpg&f=1&nofb=1",
+					"equipment": "Cable",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "chest",
+					"secondarymuscles": ["Shoulders", "Triceps"]
+				}
+			]
+		},
+		{
+			"title": "Back Workout",
+			"id": "2",
+			"mainimg": "https://athleanx.com/wp-content/uploads/2021/10/BACK-MAIN-IMAGE-1024x576.png",
+			"exercise": [
+				{
+					"name": "Neutral Grip Chest Supported Dumbbell Row ",
+					"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.onlymyhealth.com%2Fimported%2Fimages%2F2015%2FFebruary%2F25_Feb_2015%2Fman-boobs-5-650x433.jpg&f=1&nofb=1",
+					"equipment": "Dumbbell",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "Upper Back",
+					"secondarymuscles": ["Biceps", "Lats", "Shoulders"]
+				},
+				{
+					"name": "T-Bar Row ",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-ami-drupal.heartyhosting.com%2Fsites%2Fmuscleandfitness.com%2Ffiles%2Fstudio%2F6129%2F6129_B.jpg&f=1&nofb=1",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "Upper Back",
+					"secondarymuscles": [
+						"Abs",
+						"Biceps",
+						"Lats",
+						"Lower Back",
+						"Shoulders",
+						"Traps"
+					]
+				},
+				{
+					"name": "Seated Cable Row",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffitboot.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fscapular1.jpg&f=1&nofb=1",
+					"equipment": "Cable",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "Upper Back",
+					"secondarymuscles": ["Biceps", "Lats", "Shoulders"]
+				}
+			]
+		},
+		{
+			"title": "Leggs Workout",
+			"id": "3",
+			"mainimg": "https://i.ytimg.com/vi/LWdhO_OMrHk/hqdefault.jpg",	
+			"exercise": [
+				{
+					"name": "Barbell Back Squat",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdarkironfitness.com%2Fwp-content%2Fuploads%2F2018%2F04%2FBarbell-Squat.png&f=1&nofb=1",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "Intermediate",
+					"muscletarget": "Quads",
+					"secondarymuscles": ["Calves", "Glutes", "Hamstrings", "Lower Back"]
+				},
+				{
+					"name": "Leg Press",
+					"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbest-exercise.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fleg-press.jpg&f=1&nofb=1",
+					"equipment": "Machine",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "Quads",
+					"secondarymuscles": [
+						"Calves",
+						"Glutes",
+						"Hamstrings",
+						"Lower Back",
+						"Abs",
+						"Adductors"
+					]
+				},
+				{
+					"name": "One Leg Dumbbell Squat",
+					"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.workoutbox.net%2Fwp-content%2Fuploads%2F2018%2F04%2Fbulgarian-split-squat.jpg&f=1&nofb=1",
+					"equipment": "Dumbbell",
+					"mechanics": "Compound",
+					"level": "Intermediate",
+					"muscletarget": "Quads",
+					"secondarymuscles": [
+						"Calves",
+						"Glutes",
+						"Hamstrings",
+						"Lower Back",
+						"Abs",
+						"Adductors",
+						"Shoulders",
+						"Traps",
+						"Upper Back"
+					]
+				}
+			]
+		},
+		{
+			"title": "Shoulders Workout",
+			"id": "4",
+			"mainimg": "https://i.ytimg.com/vi/qWcgdlaJ-tQ/maxresdefault.jpg",
+			"exercise": [
+				{
+					"name": "Dumbbell Lateral Raise",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.muscleandfitness.com%2Fwp-content%2Fuploads%2F2014%2F02%2F906_B.jpg%3Fw%3D800%26h%3D630%26crop%3D1&f=1&nofb=1",
+					"equipment": "Dumbbell",
+					"mechanics": "Isolation",
+					"level": "beginner",
+					"muscletarget": "Shoulders",
+					"secondarymuscles": ["none"]
+				},
+				{
+					"name": "Military Press",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fprod.skimble%2Fassets%2F1137130%2Fimage_iphone.jpg&f=1&nofb=1",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "Intermediate",
+					"muscletarget": "Shoulders",
+					"secondarymuscles": ["Abs", "Traps", "Triceps"]
+				},
+				{
+					"name": "Seated Barbell Shoulder Press",
+					"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flifestylegeeky.com%2Fwp-content%2Fuploads%2F2019%2F05%2FSeated_Dumbbell_Overhead_Press.jpg&f=1&nofb=1",
+					"equipment": "Barbell",
+					"mechanics": "Compound",
+					"level": "beginner",
+					"muscletarget": "Shoulders",
+					"secondarymuscles": ["Traps", "Triceps"]
+				}
+			]
+		
+		}
+	]
+
+}
